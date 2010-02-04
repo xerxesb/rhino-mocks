@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Rhino.Mocks.Tests.FieldsProblem
 {
-	
+	/*
 	public class FieldProblem_StevenS : IDisposable
 	{
 		private MockRepository mocks;
@@ -47,4 +47,5 @@ namespace Rhino.Mocks.Tests.FieldsProblem
 			mocks.VerifyAll();
 		}
 	}
+    */
 }
